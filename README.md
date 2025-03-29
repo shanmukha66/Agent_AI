@@ -7,6 +7,17 @@ This project demonstrates the integration of key Agentic AI components using Lan
 3. **Vector Store** - Using FAISS for storing and retrieving embeddings
 4. **LangSmith Integration** - For tracing and debugging
 
+## Screenshots
+
+### LangSmith Setup & Onboarding
+![LangSmith Onboarding](1.png)
+
+### Vector Store Documentation
+![Vector Store Documentation](2.png)
+
+### Agentic AI Capabilities
+![Agentic AI Capabilities](3.png)
+
 ## Setup
 
 1. Install dependencies:
